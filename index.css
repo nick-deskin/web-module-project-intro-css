@@ -1,0 +1,32 @@
+body nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.yosemite{
+    font-size: 20px;
+}
+.plan {
+    background-color: #FF764E;
+}
+.learn {
+    background-color: #5ed3eb;
+}
+.get {
+    background-color: #FFCD69;  
+}
+.title{
+    display: grid;
+    grid-template-columns: .5fr .8fr;
+}
+header img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+footer img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    object-position: center top;
+}
